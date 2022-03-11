@@ -1,10 +1,8 @@
 # Face_Mask_Detaction_web
 Face_Mask_Detaction_web 
 ![Screenshot 2021-07-01 at 4 32 28 PM](https://user-images.githubusercontent.com/54598380/157693896-58c294e4-100f-4c52-adf5-a2764aef7c80.png)
-PROJECT  OBJECTIVE
-
-
-
+   ##PROJECT  OBJECTIVE##
+ ------------------------------ 
 
 After the new Coronavirus disease (COVID-19) case spread rapidly in Wuhan-China in December 2019, World Health Organization (WHO) confirmed that this is a dangerous virus which can be spreading from humans to humans through droplets and airborne. As for the prevention, wearing a face mask is essentials while going outside or meeting to others. However, some irresponsible people refuse to wear face mask with so many excuses. Moreover, developing the face mask detector is very crucial in this case. This paper aims to develop the face mask detector which is able to detect any kinds of face mask. In order to detect the face mask, a YOLO V4 deep learning has been chosen as the mask detection algorithm. The experimental results have been done in real-time application system has been installed at computer. From the experimental results, this device is able to detect the people who wear or do not wear the face mask accurately even if they are moving to various position.
 
@@ -15,7 +13,8 @@ After the new Coronavirus disease (COVID-19) case spread rapidly in Wuhan-China 
 II)ANDROID APPLICATION IN WEB
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-Software
+##Software##
+---------------
 Classical waterfall model is the basic software development life cycle model. It is very simple but idealistic. Earlier this model was very popular but nowadays it is not used. But it is very important because all the other software development life cycle models are based on the classical waterfall model.
 Classical waterfall model divides the life cycle into a set of phases. This model considers that one phase can be started after completion of the previous phase. That is the output of one phase will be the input to the next phase. Thus the development process can be considered as a sequential flow in the waterfall. Here the phases do not overlap with each other. The different sequential phases of the classical waterfall model are shown in the below figure
 
@@ -91,7 +90,8 @@ No overlapping of phases: This model recommends that new phase can start only af
 
 
 
-TOOLS
+##TOOLS##
+------------
 
 
 
@@ -127,7 +127,8 @@ Right now it is very important to wear facemasks, oftentimes we don’t really k
 - recognizes: no mask (100 sample images)
 - recognizes: nose visible (127 sample images)
 
-💻Dataset:
+##💻Dataset:##
+------------------
 Correct: mask on (107 sample images)
 Wrong: no mask (100 sample images)
 Wrong: nose visible (127 sample images)
