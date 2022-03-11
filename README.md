@@ -123,14 +123,19 @@ Right now it is very important to wear facemasks, oftentimes we don’t really k
 
 👓Features:
 - integrated WHO: how to use masks guide
+
 - recognizes: mask on (107 sample images)
+
 - recognizes: no mask (100 sample images)
+
 - recognizes: nose visible (127 sample images)
 
 ##💻Dataset:##
 ------------------
 Correct: mask on (107 sample images)
+
 Wrong: no mask (100 sample images)
+
 Wrong: nose visible (127 sample images)
 
 
