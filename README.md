@@ -1,5 +1,6 @@
 # Face_Mask_Detaction_web
 Face_Mask_Detaction_web 
+------------------------
 ![Screenshot 2021-07-01 at 4 32 28 PM](https://user-images.githubusercontent.com/54598380/157693896-58c294e4-100f-4c52-adf5-a2764aef7c80.png)
    ##PROJECT  OBJECTIVE##
  ------------------------------ 
