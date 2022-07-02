@@ -141,7 +141,9 @@ Wrong: nose visible (127 sample images)
 
 
 
-
+🌟 Future:
+--------------
+I can imagine that a face mask detector, could really benefit public places like schools, airports, and cafes.
 
 
 
